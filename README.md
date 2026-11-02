@@ -82,6 +82,14 @@ It also includes three visual analyses:
 
 The dashboard uses Region and Category slicers to filter the PivotTable-based analysis, along with a Timeline for date-based filtering.
 
+## Key Business Insights
+
+1. **Top Performing Region:** North recorded the highest sales among all regions.
+2. **Top Performing Category:** Electronics was the leading product category.
+3. **Total Sales:** The business recorded total sales of ₹3,92,62,877.52.
+4. **Net Revenue:** Net revenue after accounting for discounts was ₹3,53,36,589.77.
+5. **Interactive Analysis:** Region and Category slicers and a Timeline allow users to explore sales performance across different segments and periods.
+
 ## Repository Structure
 
 The repository contains the original dataset and the separate Excel workbooks for the module-wise work:
